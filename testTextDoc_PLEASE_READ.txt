@@ -1,0 +1,5 @@
+Here’s a test document. Put your name in here, then save the file. do NOT change anything else typed here or you WILL get conflicts!!!
+
+In SourceTree add the change to this file to a Commit and push the commit. if you don’t have permissions to collaborate this will fail.
+
+1. Scott Looney
